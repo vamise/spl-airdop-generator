@@ -1,9 +1,9 @@
-# SPLdrop
+# AIRDROP GENERATOR
 
-SPLdrop is a Batch Transaction DApp that can be used for airdrop campaigns or to transfer funds to thousands of addresses.
+SPL AirDrop generator a Batch Transaction DApp that can be used for airdrop campaigns or to transfer funds to thousands of addresses.
 
-Visit https://spldrop.netlify.app/ to test the app<br/>
-Refer to docs https://j-neeraja.gitbook.io/spldrop/ for instructions to use the app<br/>
+Visit https://spl-airdrop-generator.netlify.app/ to test the app<br/>
+Refer to docs https://vamise.gitbook.io/spl-airdrop-generator/ for instructions to use the app<br/>
 For a quick overview watch the demo https://drive.google.com/file/d/1mz8HzsWn-mrvEDFDzP_wtlJp1ddCmh9-/view?usp=sharing
 
 ## Security
